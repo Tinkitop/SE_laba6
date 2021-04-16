@@ -191,3 +191,6 @@ Complex operator * (const double & aLval, const Complex & aRval)
       r.Im = aLval * a.Im;
       return r;/// Returns the absolute value r.
 }
+
+
+

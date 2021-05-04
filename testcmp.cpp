@@ -1,3 +1,7 @@
+/*!
+@file
+@brief Тестовый файл
+*/
 #include <iostream>
 #include "mycomplex.h"
 

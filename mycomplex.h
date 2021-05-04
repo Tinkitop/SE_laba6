@@ -1,8 +1,18 @@
+/*!
+@file
+@brief Заголоволочный файл класса Complex
+*/
 #ifndef _MY_COMPLEX_H_
 #define _MY_COMPLEX_H_///<Library for working with complex numbers
 #include <iostream>
 
 using namespace std;
+/*!
+      @file
+      @brief Класс комплексного числа
+      @param Re действительная составляющая
+      @param Im Мнимая составляющая
+*/
 
 class Complex//class creation Complex
 
